@@ -1,0 +1,21 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Doe, J
+   Smith, A
+TI A study of something interesting
+SO JOURNAL OF EXAMPLES
+DI 10.1000/example.0001
+PY 2021
+ER
+
+PT J
+AU Roe, R
+TI Another paper worth reading about
+   broadband widgets and their uses
+SO JOURNAL OF SAMPLES
+DI 10.1000/example.0002
+PY 2022
+ER
+
+EF
