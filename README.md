@@ -1,7 +1,6 @@
 # wos-merge
 
-Parse [Web of Science](https://www.webofscience.com/) (WoS) plain-text export
-files and merge them into a single, de-duplicated CSV.
+Parse [Web of Science](https://www.webofscience.com/) (WoS) plain-text export files and merge them into a single, de-duplicated CSV file. parser.py contains the core parsing functionality.
 
 When you export records from Web of Science in several batches (WoS caps each
 export, so a large query becomes many `savedrecs.txt` files spread across
