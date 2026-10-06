@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ### Command line
 
 ```bash
-wos-merge /path/to/Data_Aditya_Sir
+wos-merge /path/to/Data
 ```
 
 This searches the folder (and every sub-folder) for Web of Science exports,
@@ -54,7 +54,7 @@ and writes `Merge_WOS.csv` inside the folder.
 If you installed from source without the console script, the equivalent is:
 
 ```bash
-python -m wos_merge /path/to/Data_Aditya_Sir
+python -m wos_merge /path/to/Data
 ```
 
 Common options:
